@@ -1,2 +1,9 @@
+### binaries ###
 build/
 *.class
+
+### Gradle ###
+.gradle/
+
+### IntelliJ ###
+.idea/
